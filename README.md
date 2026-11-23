@@ -5,6 +5,12 @@ Vendor Performance Analytics is a data analytics project designed to evaluate su
 
 The project analyzes 3,000 purchase orders across 50 vendors to identify delivery delays, evaluate product quality, compare procurement costs, and rank vendors using a weighted performance score.
 
+
+## 🚀 Live Dashboard
+
+**[Click here to view the Live Dashboard](https://vendor-performance-analytics-rawpwzkp5cadctyjoh8awp.streamlit.app/)**
+
+
 **Note:** This project uses a synthetic procurement dataset created for analytical and portfolio purposes.
 
 ## Business Objectives
