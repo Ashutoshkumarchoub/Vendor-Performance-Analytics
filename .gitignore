@@ -1,0 +1,25 @@
+
+# Python virtual environments
+.venv/
+.venv_py315_backup/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3

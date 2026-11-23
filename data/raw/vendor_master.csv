@@ -1,0 +1,51 @@
+Vendor_ID,Vendor_Name,Vendor_Category,Vendor_Location,Payment_Terms
+V001,Vendor_001,Office Supplies,Delhi,Net 60
+V002,Vendor_002,Furniture,Kolkata,Net 60
+V003,Vendor_003,IT Services,Hyderabad,Net 60
+V004,Vendor_004,Office Supplies,Jaipur,Net 15
+V005,Vendor_005,Packaging,Delhi,Net 15
+V006,Vendor_006,Machinery,Chennai,Net 15
+V007,Vendor_007,IT Services,Delhi,Net 45
+V008,Vendor_008,IT Services,Kolkata,Net 15
+V009,Vendor_009,Office Supplies,Chennai,Net 15
+V010,Vendor_010,Raw Materials,Jaipur,Net 15
+V011,Vendor_011,Packaging,Kolkata,Net 45
+V012,Vendor_012,Office Supplies,Mumbai,Net 15
+V013,Vendor_013,Packaging,Hyderabad,Net 60
+V014,Vendor_014,Packaging,Jaipur,Net 15
+V015,Vendor_015,Machinery,Mumbai,Net 60
+V016,Vendor_016,IT Services,Lucknow,Net 60
+V017,Vendor_017,Furniture,Jaipur,Net 60
+V018,Vendor_018,Machinery,Lucknow,Net 45
+V019,Vendor_019,Machinery,Chennai,Net 45
+V020,Vendor_020,Packaging,Mumbai,Net 45
+V021,Vendor_021,Logistics,Hyderabad,Net 15
+V022,Vendor_022,IT Services,Kolkata,Net 60
+V023,Vendor_023,Raw Materials,Ahmedabad,Net 45
+V024,Vendor_024,Machinery,Delhi,Net 45
+V025,Vendor_025,Furniture,Bengaluru,Net 15
+V026,Vendor_026,Logistics,Hyderabad,Net 45
+V027,Vendor_027,Logistics,Mumbai,Net 15
+V028,Vendor_028,Raw Materials,Ahmedabad,Net 30
+V029,Vendor_029,Machinery,Hyderabad,Net 45
+V030,Vendor_030,Furniture,Mumbai,Net 30
+V031,Vendor_031,IT Services,Pune,Net 15
+V032,Vendor_032,Electronics,Pune,Net 60
+V033,Vendor_033,Furniture,Lucknow,Net 45
+V034,Vendor_034,Raw Materials,Hyderabad,Net 15
+V035,Vendor_035,Logistics,Pune,Net 60
+V036,Vendor_036,IT Services,Mumbai,Net 60
+V037,Vendor_037,Furniture,Lucknow,Net 30
+V038,Vendor_038,Electronics,Mumbai,Net 15
+V039,Vendor_039,Electronics,Lucknow,Net 60
+V040,Vendor_040,Packaging,Hyderabad,Net 45
+V041,Vendor_041,Packaging,Ahmedabad,Net 45
+V042,Vendor_042,Office Supplies,Kolkata,Net 30
+V043,Vendor_043,Raw Materials,Jaipur,Net 60
+V044,Vendor_044,Machinery,Ahmedabad,Net 15
+V045,Vendor_045,Furniture,Chennai,Net 45
+V046,Vendor_046,Furniture,Mumbai,Net 60
+V047,Vendor_047,Machinery,Chennai,Net 60
+V048,Vendor_048,Office Supplies,Ahmedabad,Net 30
+V049,Vendor_049,Logistics,Lucknow,Net 45
+V050,Vendor_050,Logistics,Jaipur,Net 45
